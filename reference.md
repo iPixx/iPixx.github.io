@@ -15,3 +15,7 @@ permalink: /reference/
 
 ## Tools
 https://it.cleanpng.com/
+
+
+## Per Simo
+[link](https://wetransfer.com/downloads/ac1dbb6f706b4fae6b09461d830c01e520210817090224/616c40f6c219f469d45bf5cc36ea1eeb20210817090257/808a2b)
